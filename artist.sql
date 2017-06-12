@@ -1,0 +1,15 @@
+insert into artist(artist_id, artist_name) values ("A1","Alan Walker");
+insert into artist(artist_id, artist_name) values ("A2","Chainsmokers");
+insert into artist(artist_id, artist_name) values ("A3","Ed Sheeran");
+insert into artist(artist_id, artist_name) values ("A4","Creed");
+insert into artist(artist_id, artist_name) values ("A5","Snow Patrol");
+insert into artist(artist_id, artist_name) values ("A6","Rihanna");
+insert into artist(artist_id, artist_name) values ("A7","Imagine Dragons");
+insert into artist(artist_id, artist_name) values ("A8","Calvin Harris");
+insert into artist(artist_id, artist_name) values ("A9","Twenty One Pilots");
+insert into artist(artist_id, artist_name) values ("A10","Rae Sremmurd");
+insert into artist(artist_id, artist_name) values ("A11","Justin Beiber");
+insert into artist(artist_id, artist_name) values ("A12","Kodaline");
+insert into artist(artist_id, artist_name) values ("A13","DJ Snake");
+insert into artist(artist_id, artist_name) values ("A14","The Neighbourhood");
+insert into artist(artist_id, artist_name) values ("A15","La La Land");
